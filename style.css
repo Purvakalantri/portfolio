@@ -1,0 +1,85 @@
+
+
+#header{
+    background-color: #f2f2c5 ;
+    color: #f4efef;
+}
+.container{
+    color: #f4efef;
+    position: fixed;
+    width: 100%;
+    
+}
+
+.card{
+        
+    background-color: rgba(50, 46, 46, 0.819);
+    padding: 20px 15px 20px 20px;
+    color: #f4efef;
+    text-align: justify;
+}
+
+
+.Name{
+    padding: 50px 0px 50px 50px;
+    background-image: url(bagd.jpg);
+    /* color: #f4efef; */
+    filter: blur(50%);
+    width:96.5%;
+    font-size: 40px;
+    /* -webkit-backdrop-filter: blur(100%); */
+}
+
+
+
+
+.degree{
+    font-size: 15px;
+}
+
+.navbar{
+    
+    font-size: 30px;
+    float:right;
+    word-spacing: 10px;
+    padding-right: 10%;
+    
+
+}
+
+img{
+    width: 70%;
+    height: 40%; 
+    
+    padding: 10px 10px 10px 45px ;
+    
+}
+
+#about{
+   
+    color: #070000;
+    display: inline-flex;
+    align-items: center; 
+    
+
+    column-gap: 15px;
+    
+}
+
+#project{
+    
+    color: #070000;
+    display: inline-flex;
+    align-items: center; 
+    
+    column-gap: 15px;
+    
+}
+#footer{
+    
+    color: #070000;
+    display: inline-flex;
+    align-items: center; 
+    column-gap: 15px;
+    
+}
